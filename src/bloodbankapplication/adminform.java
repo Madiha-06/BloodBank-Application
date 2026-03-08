@@ -155,9 +155,7 @@ public class adminform extends javax.swing.JFrame {
     private void loginActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_loginActionPerformed
         String name = adminname.getText().trim();
        String password = new String(adminpwd.getPassword()).trim();
-       boolean valid=(name.equals("Ummekulsoom") && password.equals("02-132242-001")) ||
-                     (name.equals("Madiha") && password.equals("02-132242-007")) ||  
-                     (name.equals("Tayseer") && password.equals("02-132242-005"));
+       boolean valid=(name.equals("User") && password.equals("user123"));
        if(valid){
        JOptionPane.showMessageDialog(this, "Login Successful!");
        MainDashboard main= new MainDashboard();
