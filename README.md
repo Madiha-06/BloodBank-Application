@@ -25,7 +25,7 @@ Blood Bank Application developed using Object Oriented Concepts in Java using Ap
      Use the link to download JDK: https://www.oracle.com/java/technologies/downloads/
 ## Usage
 - Clone the repository
-- Add Jar folder
+- Add Jar folder, download from here: https://github.com/Madiha-06/BloodBank-Application/releases/download/v1.0/Jar.Folder.zip 
 - Save bloodbank.accdb file where the project is saved.
 - Open the BloodBankApplication.java and run
 - Admin form will appear:
