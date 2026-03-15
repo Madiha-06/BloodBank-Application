@@ -29,7 +29,7 @@ Blood Bank Application developed using Object Oriented Concepts in Java using Ap
 - Save bloodbank.accdb file where the project is saved.
 - Open the BloodBankApplication.java and run
 - Admin form will appear:
-     Name: User
-     Password: user123
+    - Name: User
+    - Password: user123
 - Click login and you can access the program.
      
