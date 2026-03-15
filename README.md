@@ -3,14 +3,14 @@ Blood Bank Application developed using Object Oriented Concepts in Java using Ap
 ## Main Features
 - Admin Login - Maintain privacy by giving access to admin only.
 - A dashboard consisting of buttons that gives following options:
-    • Recipient Form - for recipient details
-    • Add/Remove - Inside opens a window to add and remove blood bags of respective blood groups
-    • Donor Form - for donor details
-    • Blood Bank Data - has following buttons:
-         ‣ Recipient List - to view and search the recipient's data
-         ‣ Donor List - to view and search the donor's data
-         ‣ Blood Bags List - to view recieved, donated and available blood bags of respective blood groups
-    • Exit- to exit program
+  - Recipient Form - for recipient details
+  - Add/Remove - Inside opens a window to add and remove blood bags of respective blood groups
+  - Donor Form - for donor details
+  - Blood Bank Data - has following buttons:
+      - Recipient List - to view and search the recipient's data
+      - Donor List - to view and search the donor's data
+      - Blood Bags List - to view recieved, donated and available blood bags of respective blood groups
+  - Exit- to exit program
 ## OOP and Other Concepts used in the project:
 - Abstraction - The whole program was developed using Swing library for GUI hiding implementation details at backend.
 - Encapsulation - Similarly encapsulation is implemented in classes like User,Admin,Donor and Recipient.
