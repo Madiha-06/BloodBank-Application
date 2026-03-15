@@ -30,6 +30,6 @@ Blood Bank Application developed using Object Oriented Concepts in Java using Ap
 - Open the BloodBankApplication.java and run
 - Admin form will appear:
      Name: User
-     Password: User123
+     Password: user123
 - Click login and you can access the program.
      
